@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moshiur Rahman</h1>
-<h3 align="center">I'm an undergraduate Computer Science & Engineering student at the University of Rajshahi. I'm very passionate about Programming & love to Solve Problems.</h3>
-<img align="right" alt="coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1059583%2Fscreenshots%2F4171367%2Fcoding-freak.gif&f=1&nofb=1&ipt=3b71c94f0281b59a8eed4e93075f5ebae04c27305dba2799604b2a7e77d1c285&ipo=images">
+<h2 align="center">I'm an undergraduate Computer Science & Engineering student at the University of Rajshahi. I'm very passionate about Programming & love to Solve Problems.</h2>
+<img align="right" alt="coding" width="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1059583%2Fscreenshots%2F4171367%2Fcoding-freak.gif&f=1&nofb=1&ipt=3b71c94f0281b59a8eed4e93075f5ebae04c27305dba2799604b2a7e77d1c285&ipo=images">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridoy51&label=Profile%20views&color=0e75b6&style=flat" alt="hridoy51" /> </p>
 
 - 🔭 I’m currently working on **Epilepsy Detection from EEG brain Signal Using Deep Learning**
